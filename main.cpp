@@ -1,6 +1,4 @@
-#include <iostream>
 
-int main() {
 #include <iostream>
 #include "Contacto.h"
 int main() {
